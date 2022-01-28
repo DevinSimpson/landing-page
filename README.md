@@ -1,1 +1,2 @@
-# landing-page This project is designed to practice the fundamentals of html and css. By the end of this journey, I will have crafted an elegant and funtional website layout that can be used by many different businesses and organizations.
+# landing-page 
+This project is designed to practice the fundamentals of html and css. By the end of this journey, I will have crafted an elegant and funtional website layout that can be used by many different businesses and organizations.
